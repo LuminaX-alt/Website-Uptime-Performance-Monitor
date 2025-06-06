@@ -69,11 +69,15 @@ This project is a Python-based Website Uptime and Performance Monitor designed t
 
 
 
-    <img width="735" alt="image" src="https://github.com/user-attachments/assets/874d2ea9-b031-4a73-9507-5bd8ad5e7004" />
-
-   <img width="662" alt="image" src="https://github.com/user-attachments/assets/56ff02ec-5138-4280-b146-fe07e2175042" />
-
+    
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/de739d59-3685-40c3-bfe2-9e4724c7054b" />
+
+ <img width="735" alt="image" src="https://github.com/user-attachments/assets/874d2ea9-b031-4a73-9507-5bd8ad5e7004" />
+
+ <img width="662" alt="image" src="https://github.com/user-attachments/assets/56ff02ec-5138-4280-b146-fe07e2175042" />
+   
+<img width="1295" alt="image" src="https://github.com/user-attachments/assets/2803a9f6-8b7a-4841-ade1-572cfe7ca340" />
+
 
 
 
